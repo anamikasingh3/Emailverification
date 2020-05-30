@@ -1,5 +1,5 @@
 <html>
-  <p>emiail verification with firebase auth</p>
+  <p><h1>Email Verification with FirebaseAuth</h1></p>
   
   Login page for Email Verification usinf firebase Email Authentification
   
@@ -7,7 +7,7 @@
 
 Registration page for users uding firebase auth if the user id is not already registered
 
-  <img src="  Screenshot_20200526-220753.jpg"  width="250">
+  <img src="Screenshot_20200526-220753.jpg"  width="250">
 
   </html>
   
